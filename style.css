@@ -1,0 +1,48 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+}
+hr{
+    background-color: red;
+    height: 30px;
+}
+button{
+    border-radius: 30px;
+    color: white;
+    background-color: darkblue;
+    margin-left: 100px;
+    width: 200px;
+    height: 70px;
+}
+p{
+    color: white;
+    text-align: center;
+}
+a{
+    color: yellow;
+}
+.imgg{
+    border-radius: 30px;
+    margin-left: 150px;
+    width: 200px;
+    height: 100px;
+}
+footer{
+    background-color: yellow;
+    height: 50px;
+    color: black;
+    font-weight: bolder;
+}
+h2{
+    color: white;
+    margin-left: 100px;
+    font-size: 15px;
+}
+h4{
+    color: black;
+    font-weight: bolder;
+    text-align: center;
+    font-size: 30px;
+}
